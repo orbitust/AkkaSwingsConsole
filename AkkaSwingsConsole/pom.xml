@@ -140,7 +140,7 @@
 	</dependencies>
 	<properties>
 		<akka.version>2.6.1</akka.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<akka.kafka.version>1.1.0</akka.kafka.version>
 		<plugin-version.compiler>3.7.0</plugin-version.compiler>
 		<plugin-version.resources>2.6</plugin-version.resources>
